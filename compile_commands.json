@@ -1,0 +1,12 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Iinclude",
+      "mb_crc.c"
+    ],
+    "directory": "/home/master/Library/OpenModbus",
+    "file": "/home/master/Library/OpenModbus/mb_crc.c"
+  }
+]
